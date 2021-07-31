@@ -1,7 +1,6 @@
 # Twitter
  
- 
- ![ezgif com-gif-maker (10)](https://user-images.githubusercontent.com/71580429/127731357-c94e9d7a-e5c2-47b1-978a-239cffb7ff51.gif)
+
 
  # Twitter - Part II
 
